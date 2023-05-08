@@ -1,0 +1,95 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0502"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/knight-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0514"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/guard-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0538"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/prince-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0561"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/king-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0549"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/youtube-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u049D"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/admin-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0568"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/staff-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u056F"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chief-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0528"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tech-prefix.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                    "\u0507"
+                ]
+        }
+
+    ]
+}
